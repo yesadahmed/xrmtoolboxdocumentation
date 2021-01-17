@@ -4,7 +4,7 @@ Please note this tool works only with only oauth and certificates types connecti
 <br/>For how to connect and working examples please see below.<br/>
 
 
-##How to Connect in xrmtoolbox (connection Types)
+## How to Connect in xrmtoolbox (connection Types)
 Once you have the xrmtoolbox you need to install this plugin form Tool Library as shown below.
 ![xrmtoolbox connections](https://github.com/yesadahmed/xrmtoolboxAddins/blob/main/JsonToCSharp/images/library.png)
 
@@ -24,7 +24,7 @@ Some examples are as follows.
  AuthType=OAuth;Username=jsmith@contoso.onmicrosoft.com; Password=passcode;
 Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt=Never
 
-##Application Explanation
+## Application Explanation
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/startup1.PNG" >
 
 ### Select a solution to continue
