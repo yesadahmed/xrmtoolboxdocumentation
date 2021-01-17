@@ -74,6 +74,11 @@ Displays list of flow added to selected solution.
 ### Add a new flow to solution
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/example2.PNG" >
 
+### Share a flow to user in crm
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/sharing.PNG" >
+In this example first we select a user and the click the share button to share this flow to user selected.
+This is same for unshare and change ownwer.
+
 
 Feel free let me know about new features you want and any improvents you thought.
 I will try to address as soon as possible.<br/>
