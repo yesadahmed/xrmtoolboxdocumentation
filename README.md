@@ -5,7 +5,7 @@ Please note this tool works only with only oauth and certificates types connecti
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
 # [Go to Explanation](#application-explanation)<br/>
 # [Go to Examples](#examples)<br/>
-# [Go to After Create](#Created)<br/>
+# [Go to After flow Created](#Created)<br/>
 ## How to Connect in xrmtoolbox (connection Types)
 Once you have the xrmtoolbox you need to install this plugin form Tool Library as shown below.
 ![xrmtoolbox connections](https://github.com/yesadahmed/xrmtoolboxAddins/blob/main/JsonToCSharp/images/library.png)
