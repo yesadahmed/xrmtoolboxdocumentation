@@ -3,7 +3,7 @@ A xrmtoolbox plugin for Dynamic365 Customer engagement to create new cloud power
 Please note this tool works only with only oauth and certificates types connection.
 <br/>For how to connect and working examples please see below.<br/>
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
-# [Go to Explanation](#application-explanation)<br/>
+# [Go to Application](#application-explanation)<br/>
 # [Go to Examples](#examples)<br/>
 # [Go to After flow Created](#Created)<br/>
 ## How to Connect in xrmtoolbox (connection Types)
