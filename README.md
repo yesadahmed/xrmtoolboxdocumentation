@@ -29,6 +29,36 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/selectcrm.PNG" >
 In order to create a new flow or add existing flow you must select a solution to continue from this dropdown.
 
-### Add a new Solution to continue (or)
+### Add a new Solution to continue
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/addnewsol.PNG" >
 If you want to create a new solution, you can add it form here and. Note you can also select publisher for your solution. The new solution will appear in all solution list.
+
+### Create Flow
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/addnewflow.PNG" >
+When you have selected the flow, you can add the Flow to the solution. **Also, you need to select one Trigger and Action in order to create a flow.** Once you have created the flow, it will appear in the user flows list.
+
+### CE Triggers and Actions
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/flow_trg_flows.PNG" >
+Select at least one Trigger and action to create a new flow.
+
+### Customer Engagement Users
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/systemusers.PNG" >
+Available licensed dynamic365 users.
+
+### Add flow to selected
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/addflowtosol.PNG" >
+Select a flow form list below to add the flow to selected solution.
+
+
+### User flows
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/usersslows.PNG" >
+**Share**: Allow you to share the flow to selected user.
+**Unshare**: Allow you to unshare the flow to selected user.
+**Owner**: Allow you to change the owner (careful you are giving others privilege to edit flow).
+
+### Solution flows
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/selsolflows.PNG" >
+Displays list of flow added to selected solution.
+
+
+
