@@ -39,8 +39,8 @@ If you want to create a new solution, you can add it form here and. Note you can
 
 ### Create Flow
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/addnewflow.PNG" >
-When you have selected the flow, you can add the Flow to the solution. 
-  Also, you need to select one Trigger and Action in order to create a flow. &#x1F534;
+When you have selected the flow, you can add the Flow to the solution. <br/>
+  Also, you need to select one Trigger and Action in order to create a flow. &#x1F534; <br/>
  Once you have created the flow, it will appear in the user flows list.
 
 ### CE Triggers and Actions
@@ -58,9 +58,9 @@ Select a flow form list below to add the flow to selected solution.
 
 ### User flows
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/usersslows.PNG" >
-**Share**:  Allow you to share the flow to selected user.<br/>
-**Unshare**:  Allow you to unshare the flow to selected user.<br/>
-**Owner**:  Allow you to change the owner (careful you are giving others privilege to edit flow).<br/>
+**Share**:  Allow you to share the flow to selected user. &#x1F499; <br/>
+**Unshare**:  Allow you to unshare the flow to selected user. &#x1F53B;<br/>
+**Owner**:  Allow you to change the owner (careful you are giving others privilege to edit flow). &#x1F49C;<br/>
 
 ### Solution flows
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/selsolflows.PNG" >
