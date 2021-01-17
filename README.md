@@ -22,7 +22,7 @@ Some examples are as follows.
  AuthType=OAuth;Username=jsmith@contoso.onmicrosoft.com; Password=passcode;
 Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt=Never
 
-## Examples
+## Application Explanation
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/startup1.PNG" >
 
 ### Select a solution to continue
