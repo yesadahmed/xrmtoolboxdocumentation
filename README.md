@@ -2,7 +2,11 @@
 A xrmtoolbox plugin for Dynamic365 Customer engagement to create new cloud powerautomate workflows using common data service connectors and add it to selected crm solution.
 Please note this tool works only with only oauth and certificates types connection.
 <br/>For how to connect and working examples please see below.
-## How to Connect in xrmtoolbox (connection Types)
+[Go to Real Cool Heading section](#How-to-Connect-in-xrmtoolbox)
+[Go to Real Cool Heading section](#Application-Explanation)
+[Go to Real Cool Heading section](#Examples)
+
+##How to Connect in xrmtoolbox (connection Types)
 Once you have the xrmtoolbox you need to install this plugin form Tool Library as shown below.
 ![xrmtoolbox connections](https://github.com/yesadahmed/xrmtoolboxAddins/blob/main/JsonToCSharp/images/library.png)
 
@@ -22,7 +26,7 @@ Some examples are as follows.
  AuthType=OAuth;Username=jsmith@contoso.onmicrosoft.com; Password=passcode;
 Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt=Never
 
-## Application Explanation
+##Application Explanation
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/startup1.PNG" >
 
 ### Select a solution to continue
@@ -60,5 +64,5 @@ Select a flow form list below to add the flow to selected solution.
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/selsolflows.PNG" >
 Displays list of flow added to selected solution.
 
-
+### Examples
 
