@@ -39,7 +39,9 @@ If you want to create a new solution, you can add it form here and. Note you can
 
 ### Create Flow
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/addnewflow.PNG" >
-When you have selected the flow, you can add the Flow to the solution. **Also, you need to select one Trigger and Action in order to create a flow** Once you have created the flow, it will appear in the user flows list.
+When you have selected the flow, you can add the Flow to the solution. <div class="text-red">
+  Also, you need to select one Trigger and Action in order to create a flow.<a href="#" class="text-inherit">including the link</a>
+</div> Once you have created the flow, it will appear in the user flows list.
 
 ### CE Triggers and Actions
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/flow_trg_flows.PNG" >
