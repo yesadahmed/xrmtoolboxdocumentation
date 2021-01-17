@@ -66,5 +66,18 @@ Select a flow form list below to add the flow to selected solution.
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/selsolflows.PNG" >
 Displays list of flow added to selected solution.
 
-### Examples
+## Examples
+
+### Add a new flow (system)
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/example1.PNG" >
+
+### Add a new flow to solution
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/example2.PNG" >
+
+
+Feel free let me know about new features you want and any improvents you thought.
+I will try to address as soon as possible.<br/>
+you can riase new issues/fearures [here](https://github.com/yesadahmed/xrmtoolboxAddins/issues).
+
+**Adnan Samuel**
 
