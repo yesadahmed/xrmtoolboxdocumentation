@@ -23,4 +23,4 @@ Some examples are as follows.
 Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt=Never
 
 ## Examples
-![xrmtoolbox examples](https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/startup1.PNG | width=100)
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/startup1.PNG" width="100" height="100">
