@@ -86,7 +86,7 @@ This is same for unshare and change owner actions.<br/><br/>
 
 ## Created
 Once we add a new flow to solution it will appear as follows
-<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/displayed.PNG" >
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/displayed.png" >
 
 If we open a solution in flow website we will see following
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/turnon.PNG" >
@@ -96,7 +96,7 @@ So our connector is not laready authenticated, so we have to Edit the flow and h
 the CRM connector.<br/>
 For auto authentication to flow we need to register AD application to you our tenant for flow api.<br/>
 This is not suited inside xrmtoolbox for now. 
-<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/created.PNG" >
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/created.png" >
 
 Feel free let me know about new features you want and any improvents you thought.
 I will try to address as soon as possible.<br/>
