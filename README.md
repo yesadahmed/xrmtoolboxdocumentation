@@ -94,10 +94,11 @@ If we open a solution in flow website we will see following
 Remember, as we created flow form xrmtoolbox plugin and we are not logged into flow portal.<br/>
 So our connector is not laready authenticated, so we have to Edit the flow and have to authenticate
 the CRM connector.<br/>
-For auto authentication to flow we need to register AD application to you our tenant for flow api.<br/>
-This is not suited inside xrmtoolbox for now. 
+For auto authentication to flow we need to register AD application to your tenant for flow api.<br/>
+This is not suited inside xrmtoolbox for now. <br/>
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/created.png" >
 
+<br/>
 Feel free let me know about new features you want and any improvents you thought.
 I will try to address as soon as possible.<br/>
 you can riase new issues/fearures [here](https://github.com/yesadahmed/xrmtoolboxdocumentation/issues).
