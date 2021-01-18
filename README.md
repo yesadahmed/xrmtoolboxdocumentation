@@ -59,7 +59,7 @@ Select a flow form list below to add the flow to selected solution.
 
 
 ### User flows
-<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/usersslows.PNG" >.
+<img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/usersslows.PNG" >.<br/>
 **Share**  Allow you to share the flow to selected user. &#x1F499; <br/>
 **Unshare**  Allow you to unshare the flow to selected user. &#x1F53B;<br/>
 **Owner**  Allow you to change the owner (careful you are giving others privilege to edit flow). &#x1F49C;<br/>
