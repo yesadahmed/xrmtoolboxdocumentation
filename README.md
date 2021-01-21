@@ -75,7 +75,7 @@ Displays list of flow added to selected solution.
 All flows we create are always created in system default solution. Later we copy them to other
 (custom) solution
 
-### Add a new flow to your solution
+### Add a new flow to your solution (custom solution)
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/example2.PNG" >
 
 ### Share a flow to user in crm
