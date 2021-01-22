@@ -95,7 +95,7 @@ Remember, as we created flow form xrmtoolbox plugin and we are not logged into f
 So our connector is not already authenticated, so we have to Edit the flow and have to authenticate
 the CRM connector.<br/>
 For auto authentication to flow we need to register AD application to your tenant for flow api.<br/>
-This is not suited inside xrmtoolbox for now. I will provide this fucntionality in this plugin if there is more demand from the community :) <br/><br/>
+This is not suited inside xrmtoolbox for now.<br/> **I will provide this fucntionality in this plugin if there is more demand from the community** :) <br/><br/>
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/created.png" >
 
 <br/>
