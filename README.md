@@ -11,7 +11,7 @@ Please note this tool works only with only **oauth** and **certificates** types 
 # [Once created](#created)<br/>
 
 ## How to Connect in xrmtoolbox (connection Types)
-Once you have the xrmtoolbox you need to install this plugin form Tool Library as shown below.
+Once you have the xrmtoolbox you need to install this plugin form Tool Library as shown below.<br/>
 ![xrmtoolbox connections](https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/library.PNG)
 
 Once the installion is done, you will see this plugin as follows:
