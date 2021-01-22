@@ -37,7 +37,7 @@ In order to create a new flow or add existing flow you must select a solution to
 
 ### Add a new Solution to continue
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/addnewsol.PNG" >
-If you want to create a new solution, you can add it form here and. Note you can also select publisher for your solution. The new solution will appear in all solution list.
+If you want to create a new solution, you can add it form here and. Note you can also select publisher for your solution. The new solution will appear in solution list (at end).
 
 ### Create Flow
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/addnewflow.PNG" >
@@ -72,7 +72,7 @@ Displays list of flow added to selected solution.
 
 ### Add a new flow (default system solution)
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/example1.PNG" >
-All flows we create are always created in system default solution. Later we copy them to other
+All the flows we create are already part of system default solution. Later we copy them to other
 (custom) solution
 
 ### Add a new flow to your solution (custom solution)
@@ -95,7 +95,7 @@ Remember, as we created flow form xrmtoolbox plugin and we are not logged into f
 So our connector is not already authenticated, so we have to Edit the flow and have to authenticate
 the CRM connector.<br/>
 For auto authentication to flow we need to register AD application to your tenant for flow api.<br/>
-This is not suited inside xrmtoolbox for now. <br/><br/>
+This is not suited inside xrmtoolbox for now. I will provide this fucntionality in this plugin if there is more demand from the community :) <br/><br/>
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/created.png" >
 
 <br/>
