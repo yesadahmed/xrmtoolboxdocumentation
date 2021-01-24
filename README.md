@@ -101,9 +101,9 @@ This is not suited inside xrmtoolbox for now.<br/> **I will provide this fucntio
 <img src="https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/created.png" >
 
 <br/>
-Feel free for new features you want and any improvents you thought of.
+Feel free to express for new features you want and any improvents you thought of.
 I will try to address as soon as possible.<br/>
-You can riase new issues/fearures [here] (https://github.com/yesadahmed/xrmtoolboxdocumentation/issues)
+You can riase new issues/fearures on (https://github.com/yesadahmed/xrmtoolboxdocumentation/issues)
 <br/>
 **Adnan Samuel**
 
