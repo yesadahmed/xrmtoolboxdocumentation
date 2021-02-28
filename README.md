@@ -1,6 +1,6 @@
 # Powerautomate for Crm Solution
-A xrmtoolbox plugin for Dynamic365 Customer engagement to create new **cloud** powerautomate workflows and list dependencies using common data service connectors and add it to selected crm solution.
-**Also flow created are subject to crm solution only not [MYFlows]** (https://make.powerapps.com/). 
+A xrmtoolbox plugin for **cloud** powerautomate to to create, share, and list dependencies. The plugin provide the ability to add the flow to crm solution.
+**Please note flow created are subject to crm solution only not [MYFlows]** (https://make.powerapps.com/). 
 Once created you have to authenticate them in Flows (https://make.powerapps.com/) website for working.<br/>
 Please note this tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.
 <br/>For how to connect and working examples please see below.<br/>
