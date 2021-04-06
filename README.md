@@ -1,7 +1,7 @@
 # Powerautomate for Crm Solution
 A xrmtoolbox plugin for **cloud** powerautomate to  **create**, **share**, and  list **dependencies**. The plugin provide the ability to add the flow to crm solution.
-**Please note the flows created in the application are subject to crm's solution only not [MYFlows]** (https://make.powerapps.com/). 
-Once created you have to authenticate/activate them in Flows (https://make.powerapps.com/) website.<br/>
+**Please note the flows created in the application are subject to crm's solution only not [MYFlows]** (https://flow.microsoft.com/). 
+Once created you have to authenticate/activate them in Flows (https://flow.microsoft.com/) website.<br/>
 This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.
 <br/>For how to connect and working examples please see below.<br/>
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
